@@ -16,7 +16,15 @@ bash <(curl -Ls https://gitlab.com/rwkgyg/CFwarp/raw/main/CFwarp.sh)
 
  2、终止wgcf：
  ```systemctl stop wg-quick@wgcf```
+本地ipv6查询：https://www.test-ipv6.com/index.html.zh_CN
 
+DNS设置命令：echo 'nameserver 2a00:1098:2b::1' > /etc/resolv.conf
+
+warp脚本：https://github.com/yonggekkk/warp-yg
+
+argox：https://github.com/fscarmen/ArgoX
+
+HY2：https://github.com/Misaka-blog/hysteria-install
 
 ---------------------------------------------------------------------
 
