@@ -26,6 +26,8 @@ argox：https://github.com/fscarmen/ArgoX
 
 HY2：https://github.com/Misaka-blog/hysteria-install
 
+xui:bash <(curl -Ls https://raw.githubusercontent.com/vaxilu/x-ui/master/install.sh)
+
 ---------------------------------------------------------------------
 
 ### 二、多平台优选WARP对端IP + 无限生成WARP-Wireguard配置 一键脚本，建议苹果手机与安卓手机在本地网络使用
